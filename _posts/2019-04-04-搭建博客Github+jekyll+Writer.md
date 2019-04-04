@@ -11,10 +11,14 @@ tags: jekyll
 环境Win8.1，喜欢尽可能简约的方法，文末有较为详细的其他方法。
 
 ## 目录  
-[1.创建Github账号](#1)
-[2.安装配置Jekyll](#2)
-[3.使用Jekyll Writer编写博客](#3)
-[4.相关参考](#4)
+[1.创建Github账号](#1)  
+
+[2.安装配置Jekyll](#2)  
+
+[3.使用Jekyll Writer编写博客](#3)  
+
+[4.相关参考](#4)    
+
 
 ## 基本流程  
 两条路线均可，笔者觉得如果喜欢使用Jekyll Writer，可以选择第一条避坑。
@@ -46,18 +50,14 @@ Jekyll Writer是Jekyll官方提供的博客编辑器。
   
 [Jekyll Writer下载地址](http://jekyllwriter.com/)
 
-1. 解压后即可使用。  
-
+1. 解压后即可使用.
 2. 配置Github账号  
 ![配置Github账号](https://github.com/joelsq/joelsq.github.io/raw/master/img/buildBlog-sett_account.png)
-
 3. 点击`Create new token`，创建token  
-token description不重复即可  
-
+token description不重复即可
 4. 添加账户后，创建仓库  
 **什么都不输入就创建**则是默认仓库，仓库名为`你的账户名.github.io`  
-![创建仓库](https://github.com/joelsq/joelsq.github.io/raw/master/img/buildBolg-new-resp.png) 
- 
+![创建仓库](https://github.com/joelsq/joelsq.github.io/raw/master/img/buildBolg-new-resp.png)
 5.（选）选择博客主题  
 jekyll writer上有Account->Theme选项，但可能网络问题无法打开在线主题，  
 建议在Github的仓库**Settings**中找到GitHub Page，Choose a theme即可。
