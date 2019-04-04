@@ -4,8 +4,26 @@ layout: post
 categories: Blog
 tags: jekyll
 ---
+---
+layout: post
+#标题配置
+title: 搭建博客Github+jekyll+Writer
+#时间配置
+date:   2019-04-04 23:08:22 +0800
+#大类配置
+categories: document
+#小类配置
+tag: 教程
+---
+
+
+* * content
+{:toc}
+
+
+
 > 找完工作，剩下答辩和一些杂务，终于有时间做之前想做的事。  
-> 以后会走程序员这条路，希望用一个博客来记录和督促自己。  
+> 以后会走程序员这条路，希望用一个博客来记录和督促自己。    
 
 ## 前言  
 环境Win8.1，喜欢尽可能简约的方法，文末有较为详细的其他方法。
@@ -31,7 +49,6 @@ tags: jekyll
  
 [官网注册](https://github.com/)  
 
-
 <h2 id='2'> 安装配置Jekyll </h2>  
 
 * 若不需要本地运行jekyll来调试博客，这步可省略。  
@@ -42,18 +59,15 @@ tags: jekyll
 [Jekyll、MSYS2、Vibora 及在 Windows 下用 Linux](https://kaffa.im/jekyll-msys2-vibora-and-use-linux-on-windows.html)  
 
 <h2 id='3'> 使用Jekyll Writer编写博客 </h2>  
-Jekyll Writer是Jekyll官方提供的博客编辑器。  
+Jekyll Writer是Jekyll官方提供的博客编辑器。
+* 优点：界面比较美观简洁，并且提供Github账户、仓库定Markdown基础较好
+ 
 
-* 优点
-界面比较美观简洁，并且提供Github账户、仓库创建、博客post
-* 缺点
-不能同步查看Markdown结果；有一定Markdown基础较好。
-![jekyll Writer主面板](https://github.com/joelsq/joelsq.github.io/raw/master/styles/images/buildBlog/buildBlog-why-jekyllWriter.png)
-  
-[Jekyll Writer下载地址](http://jekyllwriter.com/)
-[Jekyll Writer 详细使用方法](https://sdk.cn/news/3811)
+![jekyll Writer主面板](https://github.com/joelsq/joelsq.github.io/raw/master/styles/images/buildBlog/buildBlog-why-jekyllWriter.png)  
+[Jekyll Writer下载地址](http://jekyllwriter.com/)  
+[Jekyll Writer 详细使用方法](https://sdk.cn/news/3811)  
 
-1. 解压后即可使用.
+1. 解压后即可使用.  
 2. 配置Github账号  
 ![配置Github账号](https://github.com/joelsq/joelsq.github.io/raw/master/styles/images/buildBlog/buildBlog-sett_account.png)
 3. 点击`Create new token`，创建token  
