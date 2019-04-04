@@ -1,16 +1,16 @@
 # Created by Jekyll Writer
-title: Your awesome title
-author: Jekyll Writer
-description: >
-  This theme is disigned based on Mailbox Blog, and licensed under MIT. This
-  theme is also default theme for new site created by Jekyll Writer.
-permalink: '/:year/:month/:day/:title/'
+title: 何处是旅途，随处是旅途
+SEOTitle: 乔的博客 | Joelsq Blog
+author: Joe
+description: > # this means to ignore newlines until "baseurl:"
+  This theme is disigned based on Mailbox Blog, and licensed under MIT.
+  This theme is also default theme for new site created by Jekyll Writer.
+permalink: /:year/:month/:day/:title/
 paginate: 6
-paginate_path: '/page/:num/'
-twitter_username: jekyllwriter
-github_username: jekyllwriter
-gems:
-  - jekyll-paginate
+paginate_path: "/page/:num/"
+#twitter_username: jekyllwriter
+github_username:  joelsq
+gems: [jekyll-paginate]
 markdown: kramdown
-baseurl: ''
+baseurl: ""
 theme: jekyll-theme-slate
