@@ -6,15 +6,15 @@ tags: jekyll
 ---
 ---
 layout: post
-title: 搭建博客Github+jekyll+Writer
-date:   2019-04-04 23:08:22 +0800
+title:  如何使用LessOrMore这个Jekyll模版
+date:   2016-08-27 01:08:00 +0800
 categories: document
 tag: 教程
 ---
 
-
-* * content
+* content
 {:toc}
+
 
 
 > 找完工作，剩下答辩和一些杂务，终于有时间做之前想做的事。  
