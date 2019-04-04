@@ -1,5 +1,5 @@
 ---
-title: 搭建博客Github+jekyll Writer
+title: 搭建博客Github+jekyll+Writer
 layout: post
 categories: Blog
 tags: jekyll
@@ -27,8 +27,10 @@ tags: jekyll
 
 主要介绍第一条的配置方法。
 
-<h2 id='1'> 创建Github账号 </h2>
-[官网](https://github.com)注册即可。
+<h2 id='1'> 创建Github账号 </h2> 
+ 
+[官网注册](https://github.com/)  
+
 
 <h2 id='2'> 安装配置Jekyll </h2>  
 
@@ -60,8 +62,9 @@ token description不重复即可
 **什么都不输入就创建**则是默认仓库，仓库名为`你的账户名.github.io`  
 ![创建仓库](https://github.com/joelsq/joelsq.github.io/raw/master/img/buildBolg-new-resp.png)
 5.（选）选择博客主题  
-jekyll writer上有Account->Theme选项，但可能网络问题无法打开在线主题，  
-建议在Github的仓库**Settings**中找到GitHub Page，Choose a theme即可。
+jekyll writer上有Account->Theme选项，但可能网络问题无法打开在线主题，   
+[如何替换主题](https://www.jianshu.com/p/da1287bc7874)
+
 
 <h2 id='4'> 相关参考  </h2>  
 * [搭建Github Pages个人博客网站](https://blog.csdn.net/KNIGH_YUN/article/details/79774344#6)  
