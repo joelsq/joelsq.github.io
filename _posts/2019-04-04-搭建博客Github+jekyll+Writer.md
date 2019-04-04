@@ -4,23 +4,28 @@ layout: post
 categories: Blog
 tags: jekyll
 ---
-> 找完工作，剩下答辩和一些杂务，终于有时间做之前想做的事。以后会走程序员这条路，希望用一个博客来记录和督促自己。
-
+> 找完工作，剩下答辩和一些杂务，终于有时间做之前想做的事。  
+> 以后会走程序员这条路，希望用一个博客来记录和督促自己。  
+ 
 ## 前言  
-    环境Win8.1，喜欢尽可能简约的方法，文末有较为详细的其他方法。
+环境Win8.1，喜欢尽可能简约的方法，文末有较为详细的其他方法。
 
 ## 基本流程
 两条路线均可，笔者觉得如果喜欢使用Jekyll Writer，可以选择第一条避坑。
-1. 创建Github账号->安装配置Jekyll->使用Jekyll Writer->开始博客
-2. 创建Github账号->安装配置Jekyll->创建博客仓库->使用Jekyll Writer->开始博客
+1. 创建Github账号->安装配置Jekyll（本地调试才需要）->使用Jekyll Writer->开始博客
+2. 创建Github账号->安装配置Jekyll（本地调试才需要）->创建博客仓库->使用Jekyll Writer->开始博客
 
 主要介绍第一条的配置方法。
 
 ## 创建Github账号
 [官网](https://github.com)注册即可。
 
-## 安装配置Jekyll
-Windows下安装Ruby建议使用**RubyInstaller**  
+## 安装配置Jekyll  
+
+* 若不需要本地运行jekyll来调试博客，这步可省略。  
+但后期博客变复杂或者想设计得精美一点，最好有本地调试。  
+
+* Windows下安装Ruby建议使用**RubyInstaller**  
 以下这篇教程十分详细地介绍了**Windows下的Jekyll安装**，完美避坑。这里不再赘述。  
 [Jekyll、MSYS2、Vibora 及在 Windows 下用 Linux](https://kaffa.im/jekyll-msys2-vibora-and-use-linux-on-windows.html)  
 
@@ -30,7 +35,7 @@ Jekyll Writer是Jekyll官方提供的博客编辑器。
 * 优点
 界面比较美观简洁，并且提供Github账户、仓库创建、博客post
 * 缺点
-不能同时查看Markdown效果；有一定Markdown基础较好。
+不能同步查看Markdown结果；有一定Markdown基础较好。
 ![Image Title](https://raw.githubusercontent.com/joelsq/joelsq.github.io/master/img/buildBlog-why-jekyllWriter.png)
   
 [Jekyll Writer下载地址](http://jekyllwriter.com/)
