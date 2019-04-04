@@ -2,15 +2,28 @@
 title: 何处是旅途，随处是旅途
 SEOTitle: 乔的博客 | Joelsq Blog
 author: Joe
+email:joelsq@126.com
+github:https://github.com/joelsq/
+meta_description: 一点一滴
 description: > # this means to ignore newlines until "baseurl:"
   This theme is disigned based on Mailbox Blog, and licensed under MIT.
   This theme is also default theme for new site created by Jekyll Writer.
-permalink: /:year/:month/:day/:title/
-paginate: 6
+
 paginate_path: "/page/:num/"
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: /:year/:month/:day/:title/
+paginate: 10
+
 #twitter_username: jekyllwriter
 github_username:  joelsq
 gems: [jekyll-paginate]
 markdown: kramdown
 baseurl: ""
 theme: jekyll-theme-slate
+
+
+exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
+
+
+# Build settings
+markdown: kramdown
