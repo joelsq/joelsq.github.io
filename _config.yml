@@ -1,29 +1,26 @@
-# Created by Jekyll Writer
-title: 何处是旅途，随处是旅途
-SEOTitle: 乔的博客 | Joelsq Blog
-author: Joe
-email:joelsq@126.com
-github:https://github.com/joelsq/
-meta_description: 一点一滴
-description: > # this means to ignore newlines until "baseurl:"
-  This theme is disigned based on Mailbox Blog, and licensed under MIT.
-  This theme is also default theme for new site created by Jekyll Writer.
+# Site settings
+name: Less Or More
+email: luoyan35714@126.com
+author: Freud Kang
+url: http://www.hifreud.com
+resume_site: http://www.hifreud.com/Resume.io/
+github: https://github.com/luoyan35714/
+baseurl: "/LessOrMore"
+description: Actually, less is more!
+meta_description: 康志华;个人博客;学而不思则罔;思而不学则殆;生命不止;折腾不休
+motto: It's our wits that make us men.
+banner: 学而不思则罔，思而不学则殆。
 
-paginate_path: "/page/:num/"
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: /:year/:month/:day/:title/
 paginate: 10
 
-#twitter_username: jekyllwriter
-github_username:  joelsq
-gems: [jekyll-paginate]
-markdown: kramdown
-baseurl: ""
-theme: jekyll-theme-slate
-
-
 exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile']
 
+github_username: luoyan35714
 
 # Build settings
 markdown: kramdown
+
+baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
+
