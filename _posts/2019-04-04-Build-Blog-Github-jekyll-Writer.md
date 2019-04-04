@@ -1,5 +1,5 @@
 ---
-title: Build-Blog-Github-jekyll-Writer
+title: 搭建博客Github+jekyll+Writer
 layout: post
 categories: document
 tags: 教程
