@@ -26,25 +26,32 @@ Windows下安装Ruby建议使用**RubyInstaller**
 
 ## 使用Jekyll Writer编写博客
 Jekyll Writer是Jekyll官方提供的博客编辑器。  
-个人觉得Jekyll Writer界面比较美观简洁，并且提供Github账户、仓库关联。  
+
+* 优点
+界面比较美观简洁，并且提供Github账户、仓库创建、博客post
+* 缺点
+不能同时查看Markdown效果；有一定Markdown基础较好。
+![Image Title](https://raw.githubusercontent.com/joelsq/joelsq.github.io/master/img/buildBlog-why-jekyllWriter.png)
+  
 [Jekyll Writer下载地址](http://jekyllwriter.com/)
 
-* 解压后即可使用。
-* 配置Github账号  
+1. 解压后即可使用。  
+
+2. 配置Github账号  
 ![配置Github账号](https://github.com/joelsq/joelsq.github.io/raw/master/img/buildBlog-sett_account.png)
 
-* 点击`Create new token`，创建token  
-token description不重复即可
+3. 点击`Create new token`，创建token  
+token description不重复即可  
 
-* 添加账户后，创建仓库  
+4. 添加账户后，创建仓库  
 **什么都不输入就创建**则是默认仓库，仓库名为`你的账户名.github.io`  
 ![创建仓库](https://github.com/joelsq/joelsq.github.io/raw/master/img/buildBolg-new-resp.png) 
  
-* （选）选择博客主题
-jekyll writer上有Account->Theme选项，但可能网络问题无法打开在线主题，__
+5.（选）选择博客主题  
+jekyll writer上有Account->Theme选项，但可能网络问题无法打开在线主题，  
 建议在Github的仓库**Settings**中找到GitHub Page，Choose a theme即可。
 
 ## 相关参考  
-[搭建Github Pages个人博客网站](https://blog.csdn.net/KNIGH_YUN/article/details/79774344#6)
-[利用 GitHub Pages 快速搭建个人博客](https://www.jianshu.com/p/e68fba58f75c)
-[jekyll 中文文档](https://www.jekyll.com.cn/docs/structure/)
+* [搭建Github Pages个人博客网站](https://blog.csdn.net/KNIGH_YUN/article/details/79774344#6)  
+* [利用 GitHub Pages 快速搭建个人博客](https://www.jianshu.com/p/e68fba58f75c)  
+* [jekyll 中文文档](https://www.jekyll.com.cn/docs/structe/)
