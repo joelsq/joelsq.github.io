@@ -1,5 +1,5 @@
 ---
-title: 搭建博客Github+jekyll Writer
+title: 搭建博客Github+jekyll+Writer
 layout: post
 categories: Blog
 tags: jekyll
@@ -7,7 +7,8 @@ tags: jekyll
 > 找完工作，剩下答辩和一些杂务，终于有时间做之前想做的事。以后会走程序员这条路，希望用一个博客来记录和督促自己。
 
 ## 环境
-    Win8.1
+    Win8.1  
+
 ## 基本流程
 两条路线均可，笔者觉得如果喜欢使用Jekyll Writer，可以选择第一条避坑。
 1. 创建Github账号->安装配置Jekyll->使用Jekyll Writer->开始博客
