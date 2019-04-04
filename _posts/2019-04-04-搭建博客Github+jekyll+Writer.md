@@ -10,7 +10,9 @@ tags: jekyll
 ## 前言  
 环境Win8.1，喜欢尽可能简约的方法，文末有较为详细的其他方法。
 
-## 基本流程
+## 目录  
+
+<h2 id='1'> 基本流程 </h2>
 两条路线均可，笔者觉得如果喜欢使用Jekyll Writer，可以选择第一条避坑。
 1. 创建Github账号->安装配置Jekyll（本地调试才需要）->使用Jekyll Writer->开始博客
 2. 创建Github账号->安装配置Jekyll（本地调试才需要）->创建博客仓库->使用Jekyll Writer->开始博客
