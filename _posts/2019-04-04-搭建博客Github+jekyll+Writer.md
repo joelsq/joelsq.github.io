@@ -48,19 +48,19 @@ Jekyll Writer是Jekyll官方提供的博客编辑器。
 界面比较美观简洁，并且提供Github账户、仓库创建、博客post
 * 缺点
 不能同步查看Markdown结果；有一定Markdown基础较好。
-![Image Title](https://raw.githubusercontent.com/joelsq/joelsq.github.io/master/img/buildBlog-why-jekyllWriter.png)
+![jekyll Writer主面板](https://github.com/joelsq/joelsq.github.io/raw/master/styles/images/buildBlog/buildBlog-why-jekyllWriter.png)
   
 [Jekyll Writer下载地址](http://jekyllwriter.com/)
 [Jekyll Writer 详细使用方法](https://sdk.cn/news/3811)
 
 1. 解压后即可使用.
 2. 配置Github账号  
-![配置Github账号](https://github.com/joelsq/joelsq.github.io/raw/master/img/buildBlog-sett_account.png)
+![配置Github账号](https://github.com/joelsq/joelsq.github.io/raw/master/styles/images/buildBlog/buildBlog-sett_account.png)
 3. 点击`Create new token`，创建token  
 token description不重复即可
 4. 添加账户后，创建仓库  
 **什么都不输入就创建**则是默认仓库，仓库名为`你的账户名.github.io`  
-![创建仓库](https://github.com/joelsq/joelsq.github.io/raw/master/img/buildBolg-new-resp.png)
+![创建仓库](https://github.com/joelsq/joelsq.github.io/raw/master/styles/images/buildBlog/buildBolg-new-resp.png)
 5.（选）选择博客主题  
 jekyll writer上有Account->Theme选项，但可能网络问题无法打开在线主题，   
 [如何替换主题](https://www.jianshu.com/p/da1287bc7874)
