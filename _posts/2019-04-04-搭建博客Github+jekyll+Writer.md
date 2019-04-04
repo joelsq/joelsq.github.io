@@ -49,6 +49,7 @@ Jekyll Writer是Jekyll官方提供的博客编辑器。
 ![Image Title](https://raw.githubusercontent.com/joelsq/joelsq.github.io/master/img/buildBlog-why-jekyllWriter.png)
   
 [Jekyll Writer下载地址](http://jekyllwriter.com/)
+[Jekyll Writer 详细使用方法](https://sdk.cn/news/3811)
 
 1. 解压后即可使用.
 2. 配置Github账号  
