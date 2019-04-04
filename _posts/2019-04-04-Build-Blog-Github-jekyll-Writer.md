@@ -4,6 +4,24 @@ layout: post
 categories: Blog
 tags: jekyll
 ---
+---
+layout: post
+#标题配置
+title: 搭建博客Github+jekyll+Writer
+#时间配置
+date:   2019-04-04 23:08:22 +0800
+#大类配置
+categories: document
+#小类配置
+tag: 教程
+---
+
+
+* * content
+{:toc}
+
+
+
 > 找完工作，剩下答辩和一些杂务，终于有时间做之前想做的事。  
 > 以后会走程序员这条路，希望用一个博客来记录和督促自己。    
 
@@ -42,8 +60,7 @@ tags: jekyll
 
 <h2 id='3'> 使用Jekyll Writer编写博客 </h2>  
 Jekyll Writer是Jekyll官方提供的博客编辑器。
-* 优点：界面比较美观简洁，并且提供Github账户、仓库创建、博客post。
-* 缺点：不能同步查看Markdown结果；有一定Markdown基础较好
+* 优点：界面比较美观简洁，并且提供Github账户、仓库定Markdown基础较好
  
 
 ![jekyll Writer主面板](https://github.com/joelsq/joelsq.github.io/raw/master/styles/images/buildBlog/buildBlog-why-jekyllWriter.png)  
