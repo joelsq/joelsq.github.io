@@ -38,6 +38,7 @@ tags: 教程
 
 ### 使用Jekyll Writer编写博客    
 Jekyll Writer是Jekyll官方提供的博客编辑器。
+
 * 优点：界面比较美观简洁，并且提供Github账户、仓库定Markdown基础较好
 * 缺点：无法同步预览Markdown结果
 * [Jekyll Writer下载地址](http://jekyllwriter.com/)    
