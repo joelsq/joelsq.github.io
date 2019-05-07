@@ -22,5 +22,8 @@ github_username: joelsq
 # Build settings
 markdown: kramdown
 
+# port
+port: 8010
+
 # baidu_analysis: 94be4b0f9fc5d94cc0d0415ea6761ae9
 
